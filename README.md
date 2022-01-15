@@ -17,4 +17,4 @@
 ##### Project Version
 
 -  Current version 0.1
--  You can watch [project from here](http://www.egydes.com)
+-  You can watch [project from here](https://7usien.github.io/to-do-app/)
